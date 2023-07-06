@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @firdausin
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning Laravel
-- 📫 How to reach me ...
+- 📫 DM's on my IG @m.firdausin
 
 <!---
 firdausin227/firdausin227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
