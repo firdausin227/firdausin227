@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firdausin
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently doing Last Project
 - 📫 DM's on my IG @m.firdausin
 
 <!---
