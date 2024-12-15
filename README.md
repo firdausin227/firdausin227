@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @firdausin
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently doing Last Project
+- 👋 Hi, I’m Mohammad Firdausin
+- 👀 I’m interested in Mobile and Web Developer
 - 📫 DM's on my IG @m.firdausin
 
 <!---
